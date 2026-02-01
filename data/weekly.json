@@ -1,0 +1,25 @@
+{
+  "lastUpdated": "2025-02-01T12:00:00Z",
+  "weekStart": "2025-01-27",
+  "weekEnd": "2025-02-02",
+  "athletes": [
+    {
+      "id": 11884715,
+      "name": "Ant M",
+      "weekly": {
+        "cycling": {
+          "count": 3,
+          "distance_km": 85.2,
+          "time_hours": 4.5,
+          "elevation_m": 650
+        },
+        "running": {
+          "count": 2,
+          "distance_km": 12.5,
+          "time_hours": 1.2,
+          "elevation_m": 80
+        }
+      }
+    }
+  ]
+}

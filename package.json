@@ -1,0 +1,13 @@
+{
+  "name": "strava-tracker",
+  "version": "1.0.0",
+  "description": "Weekly Strava tracking for friends",
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch-strava.js",
+    "token": "node scripts/get-token.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}

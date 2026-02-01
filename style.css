@@ -1,0 +1,124 @@
+/* Dark theme with monospace aesthetic */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  font-family: Consolas, Monaco, 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
+/* Table styling with box-drawing character appearance */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  border: 1px solid #444;
+}
+
+th, td {
+  padding: 8px 12px;
+  text-align: left;
+  border: 1px solid #444;
+}
+
+th {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #222;
+}
+
+tr:hover {
+  background-color: #2a2a2a;
+}
+
+/* Text alignment for numeric columns */
+td:nth-child(2),
+td:nth-child(3),
+td:nth-child(4),
+td:nth-child(5) {
+  text-align: right;
+}
+
+/* Links */
+a {
+  color: #6ab0f3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8bc7ff;
+  text-decoration: underline;
+}
+
+/* Metadata section */
+.metadata {
+  color: #999;
+  font-size: 12px;
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid #333;
+  background-color: #222;
+}
+
+/* Loading/error states */
+.loading, .error {
+  text-align: center;
+  padding: 40px;
+  color: #999;
+}
+
+.error {
+  color: #ff6b6b;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  body {
+    font-size: 12px;
+    padding: 10px;
+  }
+
+  th, td {
+    padding: 6px 8px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  h2 {
+    font-size: 16px;
+  }
+}
