@@ -1,11 +1,12 @@
 {
-  "lastUpdated": "2026-02-19T12:52:27.483Z",
+  "lastUpdated": "2026-02-19T18:43:23.988Z",
   "weekStart": "2026-02-16",
   "weekEnd": "2026-02-22",
   "athletes": [
     {
       "id": 11884715,
       "name": "Ant MOSS",
+      "error": "Failed to get access token: 597 Unknown",
       "weekly": {
         "cycling": {
           "count": 0,
