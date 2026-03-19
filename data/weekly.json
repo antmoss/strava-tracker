@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T18:51:55.864Z",
+  "lastUpdated": "2026-03-19T01:46:56.301Z",
   "weekStart": "2026-03-16",
   "weekEnd": "2026-03-22",
   "athletes": [
@@ -14,9 +14,9 @@
           "elevation_m": 975
         },
         "running": {
-          "count": 0,
-          "distance_km": 0,
-          "time_hours": 0,
+          "count": 1,
+          "distance_km": 10,
+          "time_hours": 0.77,
           "elevation_m": 0
         }
       }
