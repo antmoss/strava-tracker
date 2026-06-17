@@ -1,18 +1,17 @@
 {
-  "lastUpdated": "2026-06-16T20:42:58.457Z",
+  "lastUpdated": "2026-06-17T03:26:51.666Z",
   "weekStart": "2026-06-15",
   "weekEnd": "2026-06-21",
   "athletes": [
     {
       "id": 11884715,
       "name": "Ant MOSS",
-      "error": "Failed to get access token: 403 Forbidden",
       "weekly": {
         "cycling": {
-          "count": 0,
-          "distance_km": 0,
-          "time_hours": 0,
-          "elevation_m": 0
+          "count": 1,
+          "distance_km": 45.76,
+          "time_hours": 2.17,
+          "elevation_m": 785
         },
         "running": {
           "count": 0,
