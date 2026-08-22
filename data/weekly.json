@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:27:49.786Z",
+  "lastUpdated": "2026-08-22T12:24:47.021Z",
   "weekStart": "2026-08-17",
   "weekEnd": "2026-08-23",
   "athletes": [
@@ -8,10 +8,10 @@
       "name": "Ant MOSS",
       "weekly": {
         "cycling": {
-          "count": 2,
-          "distance_km": 87.72,
-          "time_hours": 2.73,
-          "elevation_m": 1238
+          "count": 3,
+          "distance_km": 172.08,
+          "time_hours": 5.44,
+          "elevation_m": 2463
         },
         "running": {
           "count": 2,
